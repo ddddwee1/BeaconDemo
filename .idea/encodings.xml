@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/potato/beacondemo/DeviceScanActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/potato/beacondemo/LeDeviceListAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/potato/beacondemo/iBeaconClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/drawable-hdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/drawable-mdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/drawable-xhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/drawable-xxhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/actionbar_indeterminate_progress.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/gatt_services_characteristics.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/listitem_device.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/gatt_services.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
